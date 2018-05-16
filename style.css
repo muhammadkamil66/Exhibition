@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+footer{
+	background-color: #23415C;
+}
+#jumbo{
+	background-color: #23415C;
+	color: white;
+	margin-top: 50px;
+}
+#sadaffe{
+	margin-bottom: 0px;
+}
+a{
+	font-size: 25px;
+}
+.display-4 {
+	margin-top: -36px;
+}
+.over{
+	overflow: scroll;
+	height: 250px;
+}
+.events{
+	height: 250px;
+}
